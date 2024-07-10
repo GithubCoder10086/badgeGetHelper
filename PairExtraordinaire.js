@@ -1,1 +1,1 @@
-console.log("hello,Pair Extraordinaire badge!")
+console.log("hello,Pair Extraordinaire!")
